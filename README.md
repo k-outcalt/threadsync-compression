@@ -1,6 +1,6 @@
-### zip program with multithreading. 
-## Developers: Bryce Chinn, Katherine Outcalt, and Andrew Varela
-## 2.14.2021
+## Zip program using multithreading
+### Developers: Bryce Chinn, Katherine Outcalt, and Andrew Varela
+# 2.14.2021
 
 We parallelize our program by creating a thread pool and assigning threads
 to files. The actual compression of the files using (run length encoding)
