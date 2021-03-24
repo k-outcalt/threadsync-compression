@@ -28,3 +28,5 @@ enforce the ordering of each thread's output.
 
 Kat was the main code driver for this project. Andrew focused on testing and
 research. Bryce contributed to brainstorming and conceptualization.
+
+Our unzip program is included as well to decompress the file. 
